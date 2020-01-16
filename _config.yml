@@ -1,0 +1,17 @@
+title: Website Title Goes Here
+description: Website Description Goes Here
+repository: thePortus/git-new-website
+include:
+  - 404.md
+  - index.md
+  - author.md
+plugins:
+  - jekyll-relative-links
+  - jekyll-include-cache
+relative_links:
+  enabled: true
+  collections: true
+source: ./pages
+collections_dir: ./pages
+includes_dir: _includes
+remote_theme: mmistakes/minimal-mistakes
