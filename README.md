@@ -1,10 +1,10 @@
 # Website Or Repository Title
 
-Put your authorship information heree
+Christina Hotalen
 
 ---
 
-Put the description of this repository or your website here.
+Embodying Empire is a collection of coinage and inscriptions from the late second and third century (193 to 311 CE).
 
 ---
 
