@@ -1,10 +1,10 @@
 # Embodying Empire
 
-Christina Hotalen
+Project author: Christina Hotalen
 
 ---
 
-Embodying Empire is a collection of coinage and inscriptions from the late second and third century (193 to 311 CE).
+Embodying Empire is a collection of coinage and inscription datasets from the late second and third century (193 to 311 CE). 
 
 ---
 
