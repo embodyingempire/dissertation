@@ -1,6 +1,6 @@
-title: Website Title Goes Here
-description: Website Description Goes Here
-repository: thePortus/git-new-website
+title: Embodying Empire
+description: Datasets for Christina Hotalen’s “Embodying the Empire: Women, Succession, and Dynasty in the Third Century”
+repository: embodyingempire/dissertation
 include:
   - 404.md
   - index.md
