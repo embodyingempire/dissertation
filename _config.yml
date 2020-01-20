@@ -15,3 +15,5 @@ source: ./pages
 collections_dir: ./pages
 includes_dir: _includes
 remote_theme: mmistakes/minimal-mistakes
+
+theme: jekyll-theme-minimal
