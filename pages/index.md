@@ -1,6 +1,6 @@
 ---
-title: Programming the Past
-author: David Thomas
+title: Embodying the Empire
+author: Christina Hotalen
 layout: collection
 permalink: /
 collection: top_pages
@@ -16,16 +16,14 @@ Course workbook and notebooks for HIS4936 @ The University of South Florida
 
 # Check Me Out
 
-Launch course workbooks in-browser in Binder! [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thePortus/programming-the-past/master)
-
-See the [GitHub Repository Here](https://github.com/thePortus/programming-the-past)
+See the [GitHub Repository Here](https://github.com/embodyingempire/dissertation)
 
 ---
 
 ## Author
 
-[David J. Thomas](mailto:dave.a.base@gmail.com), [thePort.us](http://thePort.us)<br />
-Instructor of Ancient History and Digital Humanities<br />
+[Christina Hotalen](mailto:christinah90@gmail.com), [LinkedIn Profile](https://www.linkedin.com/in/christinahotalen/)<br />
+Ph.D. candidate<br />
 Department of History<br />
 [University of South Florida](https://github.com/usf-portal)
 
@@ -33,10 +31,6 @@ Department of History<br />
 
 # Description
 
-Programming for historians. Using the power of programming to explore the past in brand new ways. Teaches undergraduate history students the basics of Python and object-oriented programming in order to gather data from online  archives, parse it, ananlyze texts and explore historical networks.
-
-This course does not assume a technical background and is meant to be an introduction to programming and the concepts of the field of Digital Humanities. This course focuses above all on effort expended, creative thinking, and sound historical analysis.
-
-The in-class course material is supplemented by the [repository](https://github.com/thePortus/programming-the-past), which powers both the [course website](https://theportus.github.io/programming-the-past) and [notebooks](https://mybinder.org/v2/gh/thePortus/programming-the-past/master). The coursebook website contains information and lesson plans. The notebooks contain all the major code used in this class as well as extra lessons, all of which are marked up not only with comments, but also with explanatory notes in Markdown.
+“Embodying the Empire: Women, Succession, and Dynasty in the Third Century,” explores the ideology developed between the imperial administration and specific populations during the reigns of three third century Roman empresses, Julia Domna, Otacilia Severa, and Galeria Valeria, and ruled beside their husbands and sons between 193 to 311 CE. This dissertation examines how imperial propaganda was catered towards specific populations, elites, non-elites, and women, responded to imperial proclaimations in the form of inscriptions and other less-studied specimens including jewelry, sartorial adornment, hair, dolls, and cameos. 
 
 ---
