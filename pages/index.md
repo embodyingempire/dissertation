@@ -8,7 +8,7 @@ sidebar:
   nav: "sidebar_nav"
 ---
 
-Course workbook and notebooks for HIS4936 @ The University of South Florida
+Datasets for Christina Hotalen's "Embodying the Empire: Women, Succession, and Dynasty in the Third Century"
 
 ![Splash Image]({{ site.baseurl }}/assets/images/splash-image.png)
 
@@ -25,7 +25,6 @@ See the [GitHub Repository Here](https://github.com/embodyingempire/dissertation
 [Christina Hotalen](mailto:christinah90@gmail.com), [LinkedIn Profile](https://www.linkedin.com/in/christinahotalen/)<br />
 Ph.D. candidate<br />
 Department of History<br />
-[University of South Florida](https://github.com/usf-portal)
 
 ---
 
