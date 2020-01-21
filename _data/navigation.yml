@@ -18,14 +18,14 @@ sidebar_nav:
   - title: "Chapters"
     children:
       - title: "Abstract"
-        url: /lessons/abstract
+        url: /dissertation/abstract
       - title: "Introduction"
-        url: /lessons/introduction
+        url: /dissertation/introduction
       - title: "Chapter 1"
-        url: /lessons/chapter-1
+        url: /dissertation/chapter-1
       - title: "Chapter 2"
-        url: /lessons/chapter-2
+        url: /dissertation/chapter-2
       - title: "Chapter 3"
-        url: /lessons/chapter-3
+        url: /dissertation/chapter-3
       - title: "Conclusion"
-        url: /lessons/conclusion
+        url: /dissertation/conclusion
