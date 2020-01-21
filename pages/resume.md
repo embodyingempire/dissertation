@@ -9,7 +9,7 @@ sidebar:
 ---
 
 Christina Hotalen
-[LinkedIn profile](https://www.linkedin.com/in/christinahotalen/) [CV](https://www.dropbox.com/s/lw9hxrubzh6i3dm/Christina%20Hotalen%20CV.docx?dl=0)
+[LinkedIn](https://www.linkedin.com/in/christinahotalen/) [CV](https://www.dropbox.com/s/lw9hxrubzh6i3dm/Christina%20Hotalen%20CV.docx?dl=0)
 
 **Skills at a Glance**
 - Quantitative and literary analysis
@@ -48,21 +48,15 @@ Christina Hotalen
 - Instructor of Record for World History since 1750 online course *2019-2020*
 	- Responsibilities include communicating clear, concise instructions to the students as well as speaking to them through online platforms (emails and general announcements), time management on evaluating and assessing student performance throughout the semester and ensuring that all assignments can be completed in a timely manner, evaluating internet sources, and troubleshooting unexpected minor technical issues.
 
----
-
 - Graduate Assistant, History Department *August 2016- May 2019*
 	- Duties include but are not limited to grading assignments, taking attendance, teaching or assisting lectures, and hosting small student-led group discussions
 	- Evaluated student work and provided meaningful feedback
 	- I have assisted in the following classes: History of Ireland (Fall 2016), Age of Alexander (Spring 2017), Ancient History I (2017-2018), Sex and Gender in Antiquity (Fall 2018), and the Roman Empire (Spring 2019).
 
----
-
 - Student Research Assistant, Center of Virtualization and Applied Spatial Technology *Summer 2017*
 	- Digitally scanned museum objects in the Archaeological Museum of Morgantina in Aidone, Sicily using the Artec and FARO arm scanners
 	- Assisted in Terrestrial Laser Scanning projects of Villa Romana del Casale and the Greek theater of Morgantina
 	- Trained Sicilian students in scanning objects using the Artec Spider and processed data in Artec Studio
-
----
 
 - Secretary, Interdisciplinary Center for Hellenic Studies *2015-2016*
 	- Processed, copied, and filed reimbursements for endowed professors of Greek history, culture, and philosophy
