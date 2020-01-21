@@ -9,12 +9,14 @@ main:
 sidebar_nav:
   - title: "Home"
     url: /
-  - title: "Starting Info"
+  - title: "Information & About"
     children:
       - title: "Setup"
         url: /setup
       - title: "About"
         url: /about
+      - title: "Resume"
+        url: /resume
   - title: "Chapters"
     children:
       - title: "Abstract"
