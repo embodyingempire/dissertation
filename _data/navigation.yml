@@ -18,34 +18,14 @@ sidebar_nav:
   - title: "Chapters"
     children:
       - title: "Abstract"
-        url: /lessons/week-1
+        url: /lessons/abstract
       - title: "Introduction"
-        url: /lessons/week-1
+        url: /lessons/introduction
       - title: "Chapter 1"
-        url: /lessons/week-2
+        url: /lessons/chapter-1
       - title: "Chapter 2"
-        url: /lessons/week-3
+        url: /lessons/chapter-2
       - title: "Chapter 3"
-        url: /lessons/week-4
+        url: /lessons/chapter-3
       - title: "Conclusion"
-        url: /lessons/week-5
-      - title: "Week 6"
-        url: /lessons/week-6
-      - title: "Week 7"
-        url: /lessons/week-7
-      - title: "Week 8"
-        url: /lessons/week-8
-      - title: "Week 9"
-        url: /lessons/week-9
-      - title: "Week 10"
-        url: /lessons/week-10
-      - title: "Week 11"
-        url: /lessons/week-11
-      - title: "Week 12"
-        url: /lessons/week-12
-      - title: "Week 13"
-        url: /lessons/week-13
-      - title: "Week 14"
-        url: /lessons/week-14
-      - title: "Week 15"
-        url: /lessons/week-15
+        url: /lessons/conclusion
