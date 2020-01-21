@@ -9,7 +9,7 @@ sidebar:
 ---
 
 Christina Hotalen
-[LinkedIn profile](https://www.linkedin.com/in/christinahotalen/)
+[LinkedIn profile](https://www.linkedin.com/in/christinahotalen/) [CV](https://www.dropbox.com/s/lw9hxrubzh6i3dm/Christina%20Hotalen%20CV.docx?dl=0)
 
 **Skills at a Glance**
 - Quantitative and literary analysis
